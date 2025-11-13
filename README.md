@@ -1,12 +1,12 @@
 # Ai-healthcare-chatbot
-# steps
+# Steps to run
 clone the repository
 project repo: https;githib.com
 
-# step 1 create a conda environment after opening the repository
+# Step 1 Create a conda environment after opening the repository
 conda create -n healthbot python=3.10 -y
 
 conda activate healthbot
 
-# step 2 install the requirements
+# Step 2 Install the requirements
 pip install -r requirements.txt
